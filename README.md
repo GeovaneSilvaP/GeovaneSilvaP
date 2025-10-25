@@ -90,8 +90,6 @@ Me chamo Geovane, tenho 23 anos e sou desenvolvedor Front-End, apaixonado por cr
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneSilvaP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-
 #
 
 <picture align="center">
@@ -99,3 +97,7 @@ Me chamo Geovane, tenho 23 anos e sou desenvolvedor Front-End, apaixonado por cr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake.svg">
 </picture>
+
+</p>
+
+
