@@ -29,7 +29,6 @@
 <br>
       
 <div align="center"> 
-  📊Minhas Estatísticas
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=GeovaneSilvaP&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneSilvaP&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
   <br>
