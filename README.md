@@ -1,16 +1,40 @@
+<br>
+<br>
+<br>
 
-# 🧑‍💻Olá eu sou o Geovane Silva 
-
-**`Desenvolvedor Front-End`**
-
-Me chamo Geovane, tenho 23 anos e sou desenvolvedor Front-End, apaixonado por criar interfaces modernas, intuitivas e responsivas. Trabalho com tecnologias como HTML, CSS, JavaScript e React, transformando ideias em experiências visuais eficientes e acessíveis. Busco sempre escrever códigos limpos, bem estruturados e focados na melhor experiência do usuário.
-
-<div> 
-  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=kigbh0z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="sunn11" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:geovanesil45sil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geovane-silva-6316aa367" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
   
+</div>
+
+<div align="center">
+  
+  <b>`Desenvolvedor Front-End`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Geovane Silva</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Geo_~-black" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center"> 
+  📊Minhas Estatísticas
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=GeovaneSilvaP&show_icons=true&count_private=true&rank_icon=github&theme=ayu-mirage&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneSilvaP&layout=compact&font=Iosevka&langs_count=16&theme=ayu-mirage"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovaneSilvaP&theme=ayu_mirage"/>
 </div>
 
 ---
@@ -72,25 +96,52 @@ Me chamo Geovane, tenho 23 anos e sou desenvolvedor Front-End, apaixonado por cr
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<br>
+<br>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GeovaneSilvaP&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovaneSilvaP&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+##
 
-#
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  <div> 
+  <a href="https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=kigbh0z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="sunn11" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:geovanesil45sil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/geovane-silva-6316aa367" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+  
+</div>
+
+</details>
+
+##
+
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=GeovaneSilvaP&abbreviated=true&style=flat-square&color=755b25" /></p> 
+</div>
+
+<br>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake-dark.svg">
@@ -99,5 +150,3 @@ Me chamo Geovane, tenho 23 anos e sou desenvolvedor Front-End, apaixonado por cr
 </picture>
 
 </p>
-
-
