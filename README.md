@@ -22,18 +22,34 @@
   </a>
 </div>
 
-<br>
+###
 
-<div align="center"> 
+<p align="left">🇧🇷<br>Meu nome é Geovane Silva, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas (ADS). Possuo conhecimentos sólidos em JavaScript, TypeScript e React, com foco em desenvolvimento Front-end. Tenho experiência na criação de interfaces modernas, responsivas e funcionais, sempre buscando boas práticas, código limpo e aprendizado contínuo na área de tecnologia. Gosto de resolver problemas e aprender coisas novas todos os dias – afinal, é disso que se trata a programação: tentar, corrigir e crescer.<br>🇧🇷</p>
+
+###
+
+<p align="left">✨Programando desde 2025
+📚 Atualmente estou aprendendo NodeJS 🍃 | MySQL 🐬
+🎯 Objetivos: Trabalhar com tecnologia e dar vida a ideias através de código. 👨🏽‍💻🐛</p>
+
+###
+
+<div align="center">
+  <h3>🎯Minhas estatísticas</h3>
   <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeovaneSilvaP&show_icons=true&count_private=true&theme=ayu-mirage&font=Iosevka"/>
   <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeovaneSilvaP&layout=compact&langs_count=16&theme=ayu-mirage"/>
-  
-  <br><br>
-  
-  <img width="100%" alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovaneSilvaP&theme=ayu_mirage"/>
 </div>
 
----
+<img width="100%" alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovaneSilvaP&theme=ayu_mirage"/>
+</div>
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
 
 <div align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
