@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🇧🇷<br>Meu nome é Geovane Silva, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas (ADS). Sou Desenvolvedor Full Stack, com sólidos conhecimentos em JavaScript, TypeScript e React, Node.js e experiência no desenvolvimento de aplicações modernas e bem estruturadas.
+<p align="left">🇧🇷<br>Meu nome é Geovane Silva, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas (ADS). Sou Desenvolvedor Full Stack, com sólidos conhecimentos em JavaScript, TypeScript, React, Node.js e experiência no desenvolvimento de aplicações modernas e bem estruturadas.
 
 No Front-end, atuo na criação de interfaces responsivas, funcionais e com foco na experiência do usuário.<br>
 No Back-end, desenvolvo APIs utilizando Node.js, trabalhando com bancos de dados MySQL (relacional) e MongoDB (NoSQL), aplicando boas práticas de organização, arquitetura e código limpo.
