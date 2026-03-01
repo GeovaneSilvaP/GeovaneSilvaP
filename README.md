@@ -1,5 +1,5 @@
 <div align="center">
-  <b>Desenvolvedor Front-End</b><br>
+  <b>Desenvolvedor Full-Stack</b><br>
   <samp>Hi there! I'm <b>Geovane Silva</b></samp>
 </div>
 
@@ -24,12 +24,17 @@
 
 ###
 
-<p align="left">🇧🇷<br>Meu nome é Geovane Silva, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas (ADS). Possuo conhecimentos sólidos em JavaScript, TypeScript e React, com foco em desenvolvimento Front-end. Tenho experiência na criação de interfaces modernas, responsivas e funcionais, sempre buscando boas práticas, código limpo e aprendizado contínuo na área de tecnologia. Gosto de resolver problemas e aprender coisas novas todos os dias – afinal, é disso que se trata a programação: tentar, corrigir e crescer.<br>🇧🇷</p>
+<p align="left">🇧🇷<br>Meu nome é Geovane Silva, tenho 24 anos e curso Análise e Desenvolvimento de Sistemas (ADS). Sou Desenvolvedor Full Stack, com sólidos conhecimentos em JavaScript, TypeScript e React, Node.js e experiência no desenvolvimento de aplicações modernas e bem estruturadas.
+
+No Front-end, atuo na criação de interfaces responsivas, funcionais e com foco na experiência do usuário.<br>
+No Back-end, desenvolvo APIs utilizando Node.js, trabalhando com bancos de dados MySQL (relacional) e MongoDB (NoSQL), aplicando boas práticas de organização, arquitetura e código limpo.
+
+Busco sempre evoluir tecnicamente, aprimorando minhas habilidades e aplicando padrões profissionais no desenvolvimento de software. Gosto de resolver problemas e aprender algo novo todos os dias — afinal, programação é sobre testar, ajustar e evoluir constantemente.<br>🇧🇷</p>
 
 ###
 
-<p align="left">✨Programando desde 2025
-📚 Atualmente estou aprendendo NodeJS 🍃 | MySQL 🐬
+<p align="left">✨Programando desde 2025<br>
+📚 Atualmente estou aprimorando NodeJS 🍃 | MySQL 🐬<br>
 🎯 Objetivos: Trabalhar com tecnologia e dar vida a ideias através de código. 👨🏽‍💻🐛</p>
 
 ###
@@ -59,6 +64,8 @@
   <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
   <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
   <img alt="NodeJs" title="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Mongodb" title="Mongodb" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
   <img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
   <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
