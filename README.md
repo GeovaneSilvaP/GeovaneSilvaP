@@ -1,10 +1,10 @@
 <div align="center">
   <b>Desenvolvedor Full-Stack</b><br>
-  <samp>Hi there! I'm <b>Geovane Silva</b></samp>
+  <samp>Olá! Eu sou <b>Geovane Silva</b></samp>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=22&duration=1000&pause=3000&color=006CF7&background=FFFFFF00&center=true&width=625&lines=Bem+Vindo!;Sou+um+Desenvolvedor+Web!;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center"> 
