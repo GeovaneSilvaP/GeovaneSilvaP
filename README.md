@@ -36,7 +36,7 @@ const geovane = {
   localização : "São Luis, Maranhão 🇧🇷",
   formação    : "Análise e Desenvolvimento de Sistemas",
   foco        : ["Full Stack", "APIs RESTful", "Interfaces Modernas"],
-  aprendendo  : ["Node.js 🍃", "MySQL 🐬"],
+  aprendendo  : ["Java ☕", "Spring 🍃"],
   objetivo    : "Dar vida a ideias através de código 👨🏽‍💻"
 };
 ```
@@ -59,6 +59,8 @@ const geovane = {
 ### ⚙️ Back-end & Banco de Dados
 <div>
   <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Spring" title="Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
   <img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
 </div>
