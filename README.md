@@ -27,7 +27,7 @@
 
 ## 👨🏽‍💻 Sobre mim
 
-Olá! Sou **Geovane Silva**, desenvolvedor **Full Stack** com 24 anos, de São Luis - MA 🇧🇷. Curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho sólida experiência com JavaScript, TypeScript, React e Node.js.
+Olá! Sou **Geovane Silva**, desenvolvedor **Full Stack** tenho 24 anos, de São Luis - MA 🇧🇷. Curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho sólida experiência com JavaScript, TypeScript, React e Node.js.
 
 Acredito que programação é sobre **testar, ajustar e evoluir** — e é exatamente isso que faço todos os dias.
 
@@ -58,7 +58,7 @@ const geovane = {
 
 ### ⚙️ Back-end & Banco de Dados
 <div>
-  <img alt="Node.js" title="Node.js" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="NodeJs" title="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
   <img alt="Java" title="Java" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="Spring" title="Spring" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
