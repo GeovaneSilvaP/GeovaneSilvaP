@@ -40,7 +40,7 @@ const geovane = {
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,nestjs,cs,mysql,mongodb,git,github,vscode,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,nestjs,php,mysql,mongodb,git,github,vscode,docker&perline=8" />
 </p>
 
 ---
