@@ -30,7 +30,7 @@ const geovane = {
   localização : "São Luís, Maranhão 🇧🇷",
   formação    : "Análise e Desenvolvimento de Sistemas",
   foco        : ["Full Stack", "APIs RESTful", "Interfaces Modernas"],
-  aprendendo  : ["C#", "NestJS 🐺"],
+  aprendendo  : ["PHP", "NestJS 🐺"],
   objetivo    : "Dar vida a ideias através de código 👨🏽‍💻"
 };
 ```
