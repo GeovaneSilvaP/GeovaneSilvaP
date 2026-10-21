@@ -15,25 +15,19 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=2000&color=006CF7&background=FFFFFF00&center=true&width=600&lines=Desenvolvedor+Full+Stack+%F0%9F%92%BB;Estudante+de+ADS+%F0%9F%8E%93;Apaixonado+por+resolver+problemas+%F0%9F%94%A7;Sempre+aprendendo%2C+sempre+evoluindo+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
 </div>
 
 ---
 
-## 👨🏽‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Olá! Sou **Geovane Silva**, desenvolvedor **Full Stack** tenho 24 anos, de São Luis - MA 🇧🇷. Curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho sólida experiência com JavaScript, TypeScript, React e Node.js.
+Olá! Sou **Geovane Silva**, desenvolvedor **Full Stack**, tenho 24 anos e sou de São Luís - MA 🇧🇷. Curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho sólida experiência com JavaScript, TypeScript, React e Node.js.
 
 Acredito que programação é sobre **testar, ajustar e evoluir** — e é exatamente isso que faço todos os dias.
 
 ```ts
 const geovane = {
-  localização : "São Luis, Maranhão 🇧🇷",
+  localização : "São Luís, Maranhão 🇧🇷",
   formação    : "Análise e Desenvolvimento de Sistemas",
   foco        : ["Full Stack", "APIs RESTful", "Interfaces Modernas"],
   aprendendo  : ["C#", "NestJS 🐺"],
@@ -45,62 +39,71 @@ const geovane = {
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🎨 Front-end
-<div>
-  <img alt="HTML5" title="HTML5" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img alt="React" title="React" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img alt="TypeScript" title="Tailwindcss" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-  <img alt="Bootstrap" title="Bootstrap" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-</div>
-
-### ⚙️ Back-end & Banco de Dados
-<div>
-  <img alt="NodeJs" title="NodeJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="NestJs" title="NestJs" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img alt="C#" title="C#" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="MySQL" title="MySQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img alt="MongoDB" title="MongoDB" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"/>
-</div>
-
-### 🔧 Ferramentas
-<div>
-  <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="GitHub" title="GitHub" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-  <img alt="VS Code" title="VS Code" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-  <img alt="Docker" title="Docker" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,nodejs,nestjs,cs,mysql,mongodb,git,github,vscode,docker&perline=8" />
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GeovaneSilvaP&show_icons=true&count_private=true&theme=tokyonight&border_radius=12"/>
-  <img height="180" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeovaneSilvaP&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-</div>
-
-<div align="center">
-  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=GeovaneSilvaP&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
-</div>
-
-<div align="center">
-  <img width="100%" alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=GeovaneSilvaP&theme=tokyo-night&border_radius=12"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=GeovaneSilvaP&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=GeovaneSilvaP&theme=tokyonight&hide_border=true&locale=pt_BR"
+    width="48%"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
-## 🐍 Contribuições
+## 🗂️ Resumo detalhado
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeovaneSilvaP&theme=tokyonight" width="95%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeovaneSilvaP&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeovaneSilvaP&theme=tokyonight" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeovaneSilvaP&theme=tokyonight" width="32%" />
+</p>
+
+---
+
+## 🐍 Contribuições sendo devoradas
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Snake comendo os commits"
+      src="https://raw.githubusercontent.com/GeovaneSilvaP/GeovaneSilvaP/output/github-contribution-grid-snake.svg"
+    />
   </picture>
-</div>
+</p>
+
+---
+
+## 💬 Citação do dia
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Dev Quote"
+  />
+</p>
 
 ---
 
